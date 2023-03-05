@@ -1,0 +1,10 @@
+// FEATURES YET TO BE IMPEMENTED
+// 1. Display the number of pages between the pagination buttons
+// 2. Ingredient validation (before submitting the form)
+// 3. Improve recipe igredient input: separate in multiple fields and allow more than
+//    6 ingredients;
+
+//1. shopping cart for ingredients
+//2. Weekly meal plan - assing recipoes to the next 7 days and show on weekly calendar
+//3. Get nutrition data: on each ingredient from snoopacular API
+//   (https://spoonacular.com/food-api) and calculate total calories
