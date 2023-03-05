@@ -291,12 +291,11 @@ init();
 // 63 Change the URL's so when getting the search results it also gets user's recipes
 // 64 Mark user's recipes with the user icon
 // 65 Make sure the user icon displays also in the resultsView
-//TODO
 // 66 Createa some documentation
 
 // TODO for later:
-// check addHandler function namings
-// see how's resetting upload form handled
+// Remove comments
+// Update flowchart and architechture and update them here
 
 // CHALLANGES
 // 1. Display the number of pages between the pagination buttons
